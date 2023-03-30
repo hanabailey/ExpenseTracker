@@ -8,3 +8,18 @@
   border-radius: 0.6rem;
 }
 
+.title{
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
+
+.amount{
+  border: 1px solid #cad2c5;
+  border-radius: 0.6rem;
+  background-color: #354f52;
+  padding: 1rem;
+  margin-right: 1rem;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
