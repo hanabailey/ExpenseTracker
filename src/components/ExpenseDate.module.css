@@ -1,0 +1,20 @@
+.dateFrame{
+  border: 1px solid #cad2c5;
+  padding: 0.5rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  padding: 0.7rem;
+}
+
+.yearFont{
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.monthFont{
+  font-weight:600;
+}
+
+.dayFont{
+  font-weight: 500;
+}
