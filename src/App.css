@@ -1,8 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Lora:wght@600;700&display=swap');
+
 body{
   background-color: #2f3e46;
-  color:#cad2c5
+  color:#cad2c5;
+  padding : 3rem;
+  font-family: 'Lora', serif;
 }
 
-h1{
+.h1{
  text-align: center;
+ margin-bottom: 2.5rem;
+ letter-spacing: 0.5rem
 }
