@@ -5,7 +5,8 @@
   padding: 1rem;
   margin: 1rem;
   background-color: #52796f;
-  border-radius: 0.6rem;
+  border-radius: 1.1rem;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.25);
 }
 
 .title{

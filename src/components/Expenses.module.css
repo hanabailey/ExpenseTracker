@@ -1,7 +1,8 @@
 .expenseCard{
   background-color: #354f52;
   padding: 0.5rem;
-  border-radius: 1.1rem;
   margin-left: 10%;
   margin-right: 10%;
+  border-radius: 1.1rem;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.25);
 }
