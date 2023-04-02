@@ -1,6 +1,8 @@
 import ExpenseItem from "./components/ExpenseItem";
 import "./App.css";
 import Expenses from "./components/Expenses";
+import NewExpenses from "./components/NewExpenses/NewExpenses";
+
 
 function App() {
 
@@ -29,6 +31,7 @@ function App() {
   return (
     <div>
       <h1 className='h1'>가계부 REACT Practice</h1>
+      <NewExpenses />
       <Expenses expenses={expenses} />
     </div>
   );
