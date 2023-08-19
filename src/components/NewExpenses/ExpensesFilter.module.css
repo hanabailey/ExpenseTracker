@@ -1,0 +1,15 @@
+.selectYearContainer{
+  display: flex;
+  justify-content: space-between;
+  margin: 3%;
+  align-items: center;
+}
+
+.select{
+  width: 100px;
+  height: 28px;
+  border-radius: 0.5em;
+  background-color: #cad2c5ea;
+  font-weight: bold;
+  text-align: center;
+}

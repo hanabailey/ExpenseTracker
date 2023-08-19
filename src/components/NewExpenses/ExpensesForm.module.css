@@ -1,17 +1,35 @@
 .container{
-  display: grid;
-  justify-content:space-between;
-
-  grid-auto-flow: row;
- 
-}
-
-.formControls{
-  grid-row: 1;
- 
-  width: 2rem;
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
 }
 
 .formLabel{
+  display: block;
   color: black;
+}
+ 
+
+.buttonContainer{
+  display: flex;
+  margin-top: 1.8em;
+  justify-content: center;
+}
+
+.button{
+  border-radius: 5px;
+  border: 1px solid transparent;
+  color: #cad2c5;
+  background-color: #52796f;
+  width:100px;
+  height: 30px;
+  font-family: 'Lora', serif;
+}
+
+.input{
+  height: 32px;
+  font-size: 15px;
+  border: 0;
+  border-radius: 0.5em;
+  outline: none;
 }
